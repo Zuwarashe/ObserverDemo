@@ -1,0 +1,15 @@
+C:\Users\Zuwa\source\repos\ObserverDemo\ObserverDemo\bin\Debug\net6.0\ObserverDemo.exe
+C:\Users\Zuwa\source\repos\ObserverDemo\ObserverDemo\bin\Debug\net6.0\ObserverDemo.deps.json
+C:\Users\Zuwa\source\repos\ObserverDemo\ObserverDemo\bin\Debug\net6.0\ObserverDemo.runtimeconfig.json
+C:\Users\Zuwa\source\repos\ObserverDemo\ObserverDemo\bin\Debug\net6.0\ObserverDemo.dll
+C:\Users\Zuwa\source\repos\ObserverDemo\ObserverDemo\bin\Debug\net6.0\ObserverDemo.pdb
+C:\Users\Zuwa\source\repos\ObserverDemo\ObserverDemo\obj\Debug\net6.0\ObserverDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zuwa\source\repos\ObserverDemo\ObserverDemo\obj\Debug\net6.0\ObserverDemo.AssemblyInfoInputs.cache
+C:\Users\Zuwa\source\repos\ObserverDemo\ObserverDemo\obj\Debug\net6.0\ObserverDemo.AssemblyInfo.cs
+C:\Users\Zuwa\source\repos\ObserverDemo\ObserverDemo\obj\Debug\net6.0\ObserverDemo.csproj.CoreCompileInputs.cache
+C:\Users\Zuwa\source\repos\ObserverDemo\ObserverDemo\obj\Debug\net6.0\ObserverDemo.dll
+C:\Users\Zuwa\source\repos\ObserverDemo\ObserverDemo\obj\Debug\net6.0\refint\ObserverDemo.dll
+C:\Users\Zuwa\source\repos\ObserverDemo\ObserverDemo\obj\Debug\net6.0\ObserverDemo.pdb
+C:\Users\Zuwa\source\repos\ObserverDemo\ObserverDemo\obj\Debug\net6.0\ObserverDemo.genruntimeconfig.cache
+C:\Users\Zuwa\source\repos\ObserverDemo\ObserverDemo\obj\Debug\net6.0\ref\ObserverDemo.dll
+C:\Users\Zuwa\source\repos\ObserverDemo\ObserverDemo\obj\Debug\net6.0\ObserverDemo.sourcelink.json
